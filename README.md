@@ -1,2 +1,2 @@
 # labsoftware
-Software 
+This is lab 3 of software engineering
